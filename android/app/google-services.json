@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537692194771",
+    "project_id": "railsmart-79cf2",
+    "storage_bucket": "railsmart-79cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537692194771:android:a1a15ba52e4ad6ea081126",
+        "android_client_info": {
+          "package_name": "com.example.railsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537692194771-1il2e7h15o1ep04c9r7skfc6r7bdju22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSVfJU2b8uo8ugqtnTaoQlE64POSa9gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537692194771-1il2e7h15o1ep04c9r7skfc6r7bdju22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
